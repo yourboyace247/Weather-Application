@@ -10,8 +10,8 @@ async function checkWeather(city) {
     let humidity = document.querySelector(".humidity span");
     let wind = document.querySelector(".wind span");
 
-    const APIKey = "19542db1e2bfaa66dcd3e12db2585186";
-    const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APIKey}`;    
+    const APIKey = // Your APIKey here
+    const url = // Your API Link here    
     
     try {
         const response = await fetch(url);
@@ -130,8 +130,8 @@ input.addEventListener("keyup", function (event) {
 });
 
 async function checkForecast(city) {
-    const APIKey = "19542db1e2bfaa66dcd3e12db2585186";
-    const url = `https://api.openweathermap.org/data/2.5/forecast?q=${city}&units=metric&appid=${APIKey}`;
+    const APIKey = // Your APIKey here
+    const url = // Your API Link here
     
     try {
     const response = await fetch(url);
@@ -151,4 +151,5 @@ async function checkForecast(city) {
     console.error("Error fetching forecast data:", error);
     return null;
     }
+
 }
