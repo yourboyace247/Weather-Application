@@ -17,6 +17,7 @@ You can enter your Location (or any other city in the world) in the search input
 
 After you search your city, you will see the degrees in celsius, the percentage of humidity, the wind speed, and a forecast prediction of the weather for the next three days.
 
+# Failed Results!
 ![Unsuccessful Result](https://raw.githubusercontent.com/yourboyace247/Weather-Application/main/images/Results2.png)
 
 If you search for an invalid city you will get unsuccessful results (error 404).
