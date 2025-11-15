@@ -7,26 +7,26 @@
 
 The HTML & CSS are from AsmrProg's code, JavaScript code is mine (I am not good at designing sorry).
 
-# Home Page!
+# :house: Home Page!
 ![Home Page](https://raw.githubusercontent.com/yourboyace247/Weather-Application/main/images/Home%20Page.png)
 
 You can enter your Location (or any other city in the world) in the search input, and hit enter or the search icon.
 
-# Results!
+# :white_check_mark: Successful Results!
 ![Successful Result](https://raw.githubusercontent.com/yourboyace247/Weather-Application/main/images/Results1.png)
 
 After you search your city, you will see the degrees in celsius, the percentage of humidity, the wind speed, and a forecast prediction of the weather for the next three days.
 
-# Failed Results!
+# :x: Failed Results!
 ![Unsuccessful Result](https://raw.githubusercontent.com/yourboyace247/Weather-Application/main/images/Results2.png)
 
 If you search for an invalid city you will get unsuccessful results (error 404).
 
-## APIs:
+## :key: APIs:
 
 The application uses the [OpenWeather APIs](https://openweathermap.org/api):
 
-#### Use the OpenWeather APIs:
+#### :cloud: Use the OpenWeather APIs:
 1. Create an account in the [plaform](https://home.openweathermap.org/users/sign_up).
 2. Verify your account (you will receive the relevant email from OpenWeather to your registered email address).
 3. Log in with your account to [OpenWeather](https://home.openweathermap.org/users/sign_in).
@@ -38,6 +38,6 @@ const APIKey = " "; // Your APIKey here.
 const url = " "; // Your API Link here.
 ```
 
-## [Weather App Video Presentation](https://drive.google.com/file/d/1DrXB25yRHpK9ujic5nTLaytJnNcTsCxX/view):
+## :tv: [Weather App Video Presentation](https://drive.google.com/file/d/1DrXB25yRHpK9ujic5nTLaytJnNcTsCxX/view):
 
 You can watch my video presentation, and check in action how the application works.
