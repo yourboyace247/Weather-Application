@@ -1,6 +1,6 @@
 # Weather App:
 
-### Biulding a weather application with HTML, CSS & JavaScript.
+### Building a weather application with HTML, CSS & JavaScript.
 
 ### Original idea from [AsmrProg YouTube channel](https://www.youtube.com/@AsmrProg).
 ### You can find the relevant repo [here](https://github.com/AsmrProg-YT/100-days-of-javascript).
