@@ -1,4 +1,4 @@
-# Weather App:
+# :sunny: Weather App:
 
 ### Building a weather application with HTML, CSS & JavaScript.
 
